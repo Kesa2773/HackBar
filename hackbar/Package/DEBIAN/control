@@ -1,0 +1,17 @@
+Package: com.kasper.hackbar
+Name: hackbar
+Version: PRODUCT_VERSION
+Description: 
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: Artem Kasper
+Maintainer: Artem Kasper
+dev: 
+Homepage: 
+Depiction: 
+Icon: 
+Tag:
+Section: 
+Installed-size: PACKAGE_SIZE
